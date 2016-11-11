@@ -11,4 +11,4 @@ handlers:
   static_files: static/favicon.ico
   upload: static/favicon.ico
 - url: .*
-  script: yourphpfile.php
+  script: index.php
